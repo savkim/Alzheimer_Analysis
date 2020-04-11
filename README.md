@@ -1,5 +1,5 @@
 # Alzheimer_Analysis
-Image Analysis and Classification
+Investigation of Alzheimer's Disease plaques using Image Analysis and Classification tools
 
 Image Analysis:
 To explore characteristics of amyloid shape and distribution for better detection algorithms
